@@ -103,7 +103,7 @@ const profile = {
       <img src="https://skillicons.dev/icons?i=figma" width="65" height="65"/><br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=storybook" width="65" height="65"/><br>Storybook
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="65" height="65"/><br>Storybook
     </td>
   </tr>
 </table>
@@ -188,13 +188,13 @@ const profile = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=damhieu2808&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=42b883&title_color=42b883"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damhieu2808&layout=compact&langs_count=6&theme=vue-dark&hide_border=true&title_color=42b883"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=damhieu2808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&icon_color=42b883&title_color=42b883"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damhieu2808&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=42b883"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=damhieu2808&theme=vue-dark&hide_border=true&ring=42b883&fire=42b883&currStreakLabel=42b883"/>
+  <img src="https://streak-stats.demolab.com?user=damhieu2808&theme=tokyonight&hide_border=true&ring=42b883&fire=42b883&currStreakLabel=42b883"/>
 </div>
 
 <br/>
