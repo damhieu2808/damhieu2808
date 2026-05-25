@@ -187,13 +187,6 @@ const profile = {
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=damhieu2808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&icon_color=42b883&title_color=42b883"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damhieu2808&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=42b883"/>
-
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=damhieu2808&theme=tokyonight&hide_border=true&ring=42b883&fire=42b883&currStreakLabel=42b883"/>
 </div>
 
